@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "name": "South Island, New Zealand",
+        "img_url": "https://travel.usnews.com/dims4/USNEWS/a798492/2147483647/resize/445x280%5E%3E/crop/445x280/quality/85/?url=https://travel.usnews.com/images/edited_south_island_nz_getty_irma_ferreira_445x280_dxgXWlc.jpg",
+        "info": "New Zealand's South Island brims with majestic landscapes at every turn, from dramatic mountains to fjords to glaciers. Here, you can explore Fiordland National Park, a UNESCO World Heritage Area, or gaze at the starry skies at Mount John Observatory. You can also indulge your inner daredevil in Queenstown, explore two of the most accessible glaciers in the world on the country's west coast or sample delicious food and wine in the Marlborough region."
+    },
+    {
+        "id": 2,
+        "name": "Glacier National Park",
+        "img_url": "https://travel.usnews.com/dims4/USNEWS/49f7191/2147483647/resize/445x280%5E%3E/crop/445x280/quality/85/?url=https://travel.usnews.com/images/main_getty_resized_445x280_b8LdAje.jpg",
+        "info": "Named for the remnants of glaciers from the ice age, Glacier National Park is located on the border of Canada and the United States and is often called the Crown of the Continent since it sits at the headwaters of the streams that flow into the Pacific Ocean, the Gulf of Mexico and Hudson Bay. A favorite among hikers, the park features a variety of trails for all skill levels, ranging from the easy Trail of the Cedars to the challenging Grinnell Glacier. What's more, the park boasts more than 700 lakes, numerous waterfalls and two mountain ranges, spread across more than 1 million acres that shelter an array of wildlife. Aside from its breathtaking geological features, it's also home to a fair amount of history. The Going-to-the-Sun Road – a scenic, 52-mile drive through the park – is a National Historic Landmark and an engineering marvel that offers spectacular views, as well as access to popular hiking trails. Plus, many of the park's lodges, chalets and hotels were constructed by the Great Northern Railway in the early 20th century and are on the National Register of Historic Places. Care to visit a UNESCO World Heritage site? You will find that here, too: the Waterton-Glacier International Peace Park."
+    },
+    
+    {
+        "id": 3,
+        "name": "Tokyo",
+        "img_url": "https://travel.usnews.com/dims4/USNEWS/41b8fe6/2147483647/resize/445x280%5E%3E/crop/445x280/quality/85/?url=https://travel.usnews.com/images/gettyimages-edited_445x280_13NCYXq.jpg",
+        "info": "Animated is perhaps the best word to describe Tokyo. Crazy about its anime, Japan's mega city is constantly buzzing with movement – feet clacking down sidewalks, cars zooming along streets, subway trains humming below ground, ships cruising in and out. And yet bright lights and loud signs beg you to pause, to break your motion for just one second to pray (oops, we mean pay) at the altar of consumerism. This is a city that feeds on motion and progress. But when you want to stop in Tokyo, the city will certainly make it worth your while. The tech-savvy locals may whizz past the monuments and urban parks daily (except during the cherry blossom season when everyone floods the green space), but, we assure you, the museums and historical sites are world-class. Here, there are photos to be taken, sushi to be eaten and a lot of shopping to be done."
+    },
+    {
+        "id": 4,
+        "name": "Phuket",
+        "img_url": "https://travel.usnews.com/dims4/USNEWS/4ef5ab1/2147483647/resize/445x280%5E%3E/crop/445x280/quality/85/?url=https://travel.usnews.com/images/main_image_2017_getty_resized_445x280_lr3LLEU.jpg",
+        "info": "Pure white sands, aquamarine waters and limestone cliffs await travelers who visit Thailand's southwestern island of Phuket. Surrounded by the Andaman Sea and about an hour by plane from Bangkok, this island is a little piece of paradise, which comes with a relatively low price tag for everything from its accommodations to spa treatments and boat tours. But along with its tropical appeal, Phuket beckons to travelers wanting to experience its flavorful cuisine (think: lemongrass, lime leaves, chillies) and its rich culture, heavily influenced by its reigning religion: Buddhism. And although the island's beaches and tourism operators have bounced back from the 2004 tsunami, which hammered its western coast and tragically claimed thousands of lives, it remembers the past with memorials and a better warning system, should the area once again come under threat. "
+    },
+    {
+        "id": 5,
+        "name": "Grand Canyon",
+        "img_url": "https://travel.usnews.com/dims4/USNEWS/7d95859/2147483647/resize/445x280%5E%3E/crop/445x280/quality/85/?url=https://travel.usnews.com/images/grand_canyon_main_2014_-_shutterstock-kojihirano_kUxSzuP.jpg",
+        "info": "Grand doesn't begin to do this canyon justice. Measuring approximately 277 river miles in length, up to 18 miles in width and a mile deep, this massive chasm in northern Arizona is truly a natural wonder. For six million years, the Grand Canyon has expanded with the help of the mighty Colorado River, and for centuries, people from all over the globe have traveled to gaze out over its red and orange grandeur. Managed by the National Park Service and officially designated as a UNESCO World Heritage site, the Grand Canyon leaves its approximately 6 million visitors per year awestruck. But if you're seeking a secluded escape to Mother Nature, you should be prepared: The Grand Canyon can be very crowded. The South Rim – home to the Grand Canyon Village and the well-worn Bright Angel Trail – is particularly popular for sightseers and hikers. It is on this side that you'll find the most amenities. For a break from the crowds, head to the North Rim. This is the place for backwoods camping and hardcore hiking."
+    },
+    {
+        "id": 6,
+        "name": "Niagara Falls",
+        "img_url": "https://travel.usnews.com/dims4/USNEWS/e929997/2147483647/resize/445x280%5E%3E/crop/445x280/quality/85/?url=https://travel.usnews.com/images/niagara_falls_getty_main_resized_445x280_YGLqknI.jpg",
+        "info": "It's not hard to understand why many consider Niagara Falls a top natural wonder of the world. Or why it has been the location of some incredible (and now illegal) daredevil antics over the years. The second you see the mammoth Niagara River rumbling toward a 188-foot waterfall at about 20 to 30 (and up to 68) mph, your mouth will drop. The speed at which the river falls creates a misty fog and an unmistakable roar heard from miles away. From the top, crowds flock to the railings to feel the mist on their faces. As you follow the water's path downward, boats, platforms and observation decks support colorful poncho-clad visitors. Over the years, Niagara has gone from classic honeymoon spot to cheesy honeymoon spot and, now, it's an odd mix of the two. In addition to the stunning waterfalls, there is a large concentration of quickie wedding chapels and hotels backlit in blaring neon. But strolling through the ice wine vineyards of the nearby Inniskillin Winery is truly romantic, as is enjoying the lush landscape at the Niagara Parks Botanical Gardens. So hop in the two-seater with your special someone or pack your family in the minivan and take a spectacular trip to the majestic Niagara Falls."
+    },
+    {
+        "id": 7,
+        "name": "Costa Rica",
+        "img_url": "https://travel.usnews.com/dims4/USNEWS/c75902f/2147483647/resize/445x280%5E%3E/crop/445x280/quality/85/?url=https://travel.usnews.com/images/1gettyimages-532227105_445x280_U6rxTzp.jpg",
+        "info": "To many, Costa Rica's charm lies in its lush rainforests, unspoiled beaches and abundance of wildlife. With breathtaking landscapes and a myriad of creatures – from toucans to monkeys to jaguars – it's easy to see why. Where else can you hike active volcanoes, zip line through cloud-covered rainforests and surf warm turquoise waters within the span of just a few days? In this compact but diverse tropical paradise, exhilarating outdoor activities are abundant. Nature-seekers will roam thick jungles while beachgoers will sprawl across the powdery sands. It's hard not to admire all the splendors this Rich Coast has to offer. However, for others, this small Latin American country has a different appeal: it's a relaxed way of life. Residents – known as Ticos – often recite the catchphrase pura vida (or pure life). This guiding philosophy can be observed from Costa Rica's central cosmopolitan capital of San José all the way to the sandy Atlantic and Pacific coasts. To truly immerse yourself in the good life, kick back and admire the awe-inspiring scenery. Surround yourself with graceful butterflies at La Paz Waterfall Gardens, hike along the monumental Arenal Volcano, mingle with locals at Puerto Viejo de Talamanca, or simply sit in a hammock under a palm tree along the Nicoya Peninsula."
+    },
+    {
+        "id": 8,
+        "name": "Argentine Patagonia",
+        "img_url": "https://travel.usnews.com/dims4/USNEWS/6e688d9/2147483647/resize/445x280%5E%3E/crop/445x280/quality/85/?url=https://travel.usnews.com/images/main_image_lOUOzDh.jpg",
+        "info": "This region in the Andes mountains is nothing if not enchanting. Cobalt lakes, azure-tinted glaciers, emerald trees, and turquoise skies stretch as far as the eye can see. In fact, Argentine Patagonia's vistas are so sweeping that Charles Darwin once described the region as boundless. Visit Argentina's Lake District and you'll discover villages brushing against snowy mountain peaks. Travel east and you'll find whales gliding through Peninsula Valdés' marine wildlife sanctuary. Venture to Southern Patagonia, and you'll stumble upon deserts extending into rugged estancias (cattle-ranges) and melting glaciers. And, if you continue downward to the Chilean border at Cape Horn, you'll come across an expansive horizon reaching out to Antarctica's frosty edge. Patagonia's beauty knows no bounds. But don't let the frontier's vastness fool you: Argentine Patagonia's rapidly developing infrastructure grants visitors easy access to all major attractions. Rustic roads lead to dramatic natural wonders like Perito Moreno Glacier and Mount Fitz Roy. Look around this beautiful landscape and discover a region buzzing with life. Magellanic penguins and albatross mingle in the Punta Tombo wildlife reserve, while history survives on the walls of the Cave of the Hands."
+}
+
+    
+]
