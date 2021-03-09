@@ -16,7 +16,7 @@ class App extends React.Component{
         })
     }
     componentDidMount(){
-        fetch('https://raw.githubusercontent.com/MilinaSmiljanic/oooo/master/data.txt')
+        fetch('https://raw.githubusercontent.com/MilinaSmiljanic/best-places-to-visit/master/data.txt')
         .then(res=>{
            return res.json();
         })
