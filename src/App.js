@@ -16,7 +16,7 @@ class App extends React.Component{
         })
     }
     componentDidMount(){
-        fetch('https://raw.githubusercontent.com/smiljanic-del/worlds-best-places-to-visit/main/worlds_best_places.txt')
+        fetch('https://raw.githubusercontent.com/MilinaSmiljanic/oooo/master/data.txt')
         .then(res=>{
            return res.json();
         })
